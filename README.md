@@ -1,0 +1,1 @@
+# webext-start-template
